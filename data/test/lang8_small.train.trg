@@ -30,7 +30,7 @@ They don't like to talk about the same things
 I felt very funny
 We had a good time."
 I live in Okinawa where it is very warm and there are beautiful oceans
-It's hot today despite that it's winter！
+It's hot today despite that it's winter!
 I like to go to the beach
 However, I don't go to swim. I like spending my time there doing nothing
 at the beach because I can forget various stressful things there > Or you could say, '... because it takes my mind off things that are stressing me
@@ -100,7 +100,7 @@ We ate lunch then after that we met her husband and we did  some sightseeing in 
 I rode on the CABLE CAR for the first time and went to Coit Tower
 He was a very good guy
 It was very wonderful
-There was blue sea, blue sky, green mountain and lots of nature.  この文は私が分かりません。
+There was blue sea, blue sky, green mountain and lots of nature.  ??
 After that we went to Carmel and we bought bag at COACH
 And we went to eat dinner IZAKAYA(Japanese food) in San Jose
 It was very good
@@ -149,19 +149,19 @@ Thank you for reading this entry\/article
 I would be glad if you would correct this
 I like reading books
 I have read it several time in English to study English
-Do you know “The little prince” story
+Do you know �The little prince� story
 The little prince lives in a small planet. There are two small volcanoes and a rose
 He waters the rose and protects it from cold weather
 And prince decides go away from the rose
-Then I wondered what the rose means on prince’s planet
+Then I wondered what the rose means on prince�s planet
 And I checked it on the internet
-Her name is コンスエロ
-It's because サン＝テグジュペリ’s family doesn't like her
-Then someone found a lot of letters, pictures, and a lot of stuff in a big サン＝テグジュペ’s trunk
+Her name is ??
+It's because ??=??�s family doesn't like her
+Then someone found a lot of letters, pictures, and a lot of stuff in a big ??=??�s trunk
 He died by a planned accident
-When he died, he was wearing a bracelet with the stamp of コンスエロ
+When he died, he was wearing a bracelet with the stamp of ??
 So he loved her so much
-On July 25 (または the 25th of July), there was festival in Osaka
+On July 25 (?? the 25th of July), there was festival in Osaka
 It is famous for fireworks
 So my friend and I went to see it
 The festival was near the river so it sounded nice to go to
@@ -188,13 +188,13 @@ I could switch the car to another car
 I thought I would need a navigation system on the car
 Finally I could meet my friend 
 at LA."
-I begin to like baseball games.(この意味、たぶん。。。）
+I begin to like baseball games.(??)
 I went to see a baseball game with some of my friends at KOUSHIEN
-I didn’t like baseball until I watched the game
+I didn�t like baseball until I watched the game
 That why,  we were singing a song, when the players were standing at the butter box. (batter box
 all player has each song  one of player had a homeback hit
 The team we were rooting for won.(rooting for = supporting, hoping would win)"
-the title is “The beauty and the beast”
+the title is �The beauty and the beast�
 It is famous for everyone in the world
 Most  of people know it
 Then I have examined it searched for its related information on the internet
@@ -220,8 +220,8 @@ I sometimes have got to help from local people
 I am so thankful for their help
 That's why
 I want to help other people who seems to be in need of help too. problem."
-Ｉ had a chance to talk with a customer from Korea
-He could speak English, so then, I tried to ask “Would you like to have a cup of coffee or tea?\" 
+I had a chance to talk with a customer from Korea
+He could speak English, so then, I tried to ask �Would you like to have a cup of coffee or tea?\" 
 But the person sitting next to me, a Japanese businessman, interpreted my English to English. 
 I was disappointed
 I need to keep practicing my English speaking."
@@ -253,23 +253,23 @@ The pronounciation is very difficult to learn without anyone who can speak japan
 While I am learning Japanese, I don't want to forget English, so I write here to improve english
 My English teacher can't really help me
 I am affraid that I am not good enough to write in Japanese
-I just can only speak some short sentences like 'おげんきですか
+I just can only speak some short sentences like '??
 You see, I write all in Kana because I didn't learned a lot of kanji
 I hope I will learn a lot of Japanese
 The research was about \"Fourier transformations and Digitral image processing
 I will write about it in my next journal
 It's a long-running special-effects TV series aimed at kids
 They assume the identity of a grasshopper-like cyborg
-仮面ライダー usually fight to protect people against monsters
-But in the 仮面ライダー龍騎, the Riders fight against other Riders
-They kill each other to gain special powers and claim which grant any wish. (Since I'm not too familiar with the series I'm not sure if there can be many powers or not, so I'm guessing some parts here. >.<）
+?? usually fight to protect people against monsters
+But in the ??, the Riders fight against other Riders
+They kill each other to gain special powers and claim which grant any wish. (Since I'm not too familiar with the series I'm not sure if there can be many powers or not, so I'm guessing some parts here. >.<)
 One fights to revive his sister, one fights to cure his incurable disease. (If you want to make it more general, with 'some': Some fight to revive their sister(s), others fight to cure their disease
 Each drives has a characteristic ability
 For instance,\"Cyclone Memory\" which improves its speed, \"Metal Memory\" hardens its body ,etc
 And they fight while having a good command of 2 of them
 They can only insert 2 drives at once
 It tickles my engineerity! (Ha, I guess I know what you mean by 'engineerity' ^_^, but maybe something more likely would be: 'engineerness'? This isn't really a word either, but I think I would use that over an 'ity' ending. For something proper, maybe 'it tickles my engineer character', 'it tickles the engineer in me' would be better- 
-Do you like it?(*´∀｀) (This is proper English. In casual English, you can use what you wrote
+Do you like it?(*�?`) (This is proper English. In casual English, you can use what you wrote
 When I was going for a moonlit stroll this night\/evening, I heard that \"bell-ringing\" crickets were singing
 I recognized that the summer is finally ending and the autumn is falling\/coming\/following
 I've heard that any people do not no one enjoys the songs of the crickets besides the Japaneses
@@ -300,31 +300,31 @@ When I came back\/reached home, it was already past midnight
 Then I had a light supper. (we always say \"light supper\", but never \"small supper\". I wonder why
 It's already half past 4 am now
 This is just a the beginning. [Since you're being specific about what kind of beginning here
-Even the famous general of 戦国 era, 織田信長, was there to pray for a victory before the battle of 桶狭間
+Even the famous general of ?? era, ??, was there to pray for a victory before the battle of ??
 Inside the shrine, there was this treasury that contained lots of treasures
-And 神道 is very much related to 天皇(the Majesty the Emperor). (It's a bit odd to use \"deeply\" here
-Therefore many of arts and works have been dedicated to 天皇 conventionally
+And ?? is very much related to ??(the Majesty the Emperor). (It's a bit odd to use \"deeply\" here
+Therefore many of arts and works have been dedicated to ?? conventionally
 Yes! The samurai swords were really cool
 Me neither. ;p
 But I didn't become tired at all! (It's more common to use \"grow weary
 It was a really comfortable\/relaxing place. (\"Snug\" is used for other things. Like, this is a snug sweater => tight-fitting, or body-hugging
-Then we went to 栄 which is downtown Nagoya and my junior joined us
+Then we went to ? which is downtown Nagoya and my junior joined us
 There is this large Ferris wheel in the middle of downtown Nagoya
-名無しさん had longed to ride one
+?? had longed to ride one
 So we rode it
 Although she had longed to ride it so much, she had a fear\/phobia of heights
 So she was rather quiet when we were inside the gondola the whole time
 Why bears? 
 I wish they felt the same as me too!"
-I really regret that I couldn't write a journal entry yesterday. もっと自然な言い方は：I'm so sorry that I couldn't blog\/write an entry yesterday
+I really regret that I couldn't write a journal entry yesterday. ??I'm so sorry that I couldn't blog\/write an entry yesterday
 When I got home, it was already past 12:00 am. (If you use 12:00, you need to put \"am\/pm\" because it can mean 1200 hours or 0000 hours. Otherwise, you can say, \"past midnight
-I was writing this journal on the bed, but I fell asleep. もっと自然な言い方は：I fell asleep as I was writing this journal on my bed
+I was writing this journal on the bed, but I fell asleep. ??I fell asleep as I was writing this journal on my bed
 The seniors sometimes link daily things to technical terms. (I know
 For instance, when a guy was acting bashful\/shy\/awkward while he was talking about his girlfriend, the others hooted at him like
 Then the guy retorted with
 I am still self-restoreable!\" (Hahahaha
-They are earnest to thier reseaches. 意訳ですが： They are very dedicated to their research (projects). 名詞なら、research　だけで良いです。
-And they have lots of expert knowledge.　他の言葉は： expertise
+They are earnest to thier reseaches. ?? They are very dedicated to their research (projects). ??research ??
+And they have lots of expert knowledge. ?? expertise
 I am so glad to to be incorporated as a member of the lab! (It's a little weird to use 'incorporated', because it sounds too formal and business-like. You can say, \"... to be part of this lab!\""
 I don't understand the lyrics, so I can't translate but somehow the English sentence feels weird to me... could it be perhaps, \"Aiming at the core through a synthesizer
 What I think she wants to say is, it's easy to be in the charts or follow the crowd
@@ -346,11 +346,11 @@ null
 null
 The Love and the Japanese language
 Japanese, however, hadn't have the proper word which signifies \"love\" then because of the sensibilities and lyricism. (sensibilities and lyricism
-When one of his students translated \"I love you\" into Japanese as ”私はあなたを愛しています\", he warned him against that translation
-Japanese would say  \"今夜は月が綺麗ですね\"(which means \"The moon looks more beautiful tonight\") instead
+When one of his students translated \"I love you\" into Japanese as �??\", he warned him against that translation
+Japanese would say  \"??\"(which means \"The moon looks more beautiful tonight\") instead
 I think what he meant was that \"love\" is the feeling that makes the moon looks brighter than the moon you (usually) see by yourself
 Continuing from my previous journal entries
-After the cake buffet, we saw off 名無しさん and  Porschla off at the bus station
+After the cake buffet, we saw off ?? and  Porschla off at the bus station
 Really? I didn't know! :D
 So they must have had a great time there
 They had a free day on Friday because their flight would depart on Saturday afternoon. (It was Saturday morning, actually
@@ -366,7 +366,7 @@ of the drama!! (You don't need to say this, since you've already explained it.
 There was a particularly memorable line. (To emphasize that it was really special
 That was, \"Our happiness shouldn't be bought at the sacrifice of any of us.\" (I'm not sure what the translation is, but something that may sound more natural is: Our happiness shouldn't be attained at the cost\/sacrifice of others
 What did you do with your mother
-I went to the a revolving sushi bar named \"ざぶん\" with my family and mother's mom and father's mom
+I went to the a revolving sushi bar named \"??\" with my family and mother's mom and father's mom
 There were lots of \"moms
 I had (so) many bottles of sake. (The 'so' is for emphasis ;p
 Don't fall down! ;p
@@ -384,7 +384,7 @@ I'm writing this journal entry using my iphone on the train
 Today we are having a forum about the research that my lab conducting
 This time it's a badminton tournament
 All of the lab members including professors are gonna take part in the tournament
-So this has a aspect which is entertainment for the professors!意訳ですが：So even the professors can enjoy themselves in such a sports event
+So this has a aspect which is entertainment for the professors!??So even the professors can enjoy themselves in such a sports event
 I'm going to change\/transfer my train now
 I will be back at Lang8 at tonight if I am not exhausted
 it's not gone! I just corrected it 
@@ -406,18 +406,18 @@ I'm trying to finish this book within this month
 I also started attending English conversation class
 There are so many things to write about
 One journal entry is not enough to finish up writing about my these days!"
-名無しさん, her friends named Porschla, みよきちさん, atukiくん and his friend なつえ and me
-The motivation for this trip was 名無しさん's journal entry
+??, her friends named Porschla, ??, atuki?? and his friend ?? and me
+The motivation for this trip was ??'s journal entry
 She wrote that she was planning to visit Takayama with her friend 
 Takayama is in the northern part of Gifu prefecture and that is close to my hometown
 Then me and other 2 of her Lang8 friends decided to serve as guides for them
 The rendezvous was at the Golden Clock in Nagoya station at 10 a.m
 This was absolutely our absolute first time to meet  each other. 
 What do you mean by this
-So I ordered a bowl of rice topped with fillet pork cutlet and 味噌 sauce
+So I ordered a bowl of rice topped with fillet pork cutlet and ?? sauce
 And it was excellent
 That pork fillet was tender and went well with the sauce
-And I love it! In almost all of the sentences that you wrote, you should replace \"that\" with \"it\". It's a little hard to explain why, though. In this sentence, \"And I love that\" really means \"And I love the fact that 味噌 is a special product of Aichi Prefecture.\" \"that\" really refers to an entire sentence, or an entire idea. On the other hand, \"And I love it!\" really means \"And I love 味噌\". In this case, \"it\" refers to the subject (person, place, thing) of the preceding sentence. So, if you write about the same subject in multiple sentences, you should use \"it\" instead
+And I love it! In almost all of the sentences that you wrote, you should replace \"that\" with \"it\". It's a little hard to explain why, though. In this sentence, \"And I love that\" really means \"And I love the fact that ?? is a special product of Aichi Prefecture.\" \"that\" really refers to an entire sentence, or an entire idea. On the other hand, \"And I love it!\" really means \"And I love ??\". In this case, \"it\" refers to the subject (person, place, thing) of the preceding sentence. So, if you write about the same subject in multiple sentences, you should use \"it\" instead
 Tomorrow I will continue to write about this sightseeing trip
 I am so glad that I could come back to here
 I have been having some tough days. (More natural suggestion: I've been having a rough time lately. Or: I've had a rough few days
@@ -507,18 +507,18 @@ Many countries, however, decided to reconsider of nuclear power plant developmen
 So I wrote few lines along  related to the textbook
 It was really hard to write an academic writing.  (It was really hard to write academically
 But if I keep writing like this, I think I will get  a good score at on the TOEFL test
-もちろんですよ！頑張ってください！＾＾
+??!??!^^
 The weather forecast said the rain will go on for continue this week
 I think it's a little bit early to set in for  the rainy season  to begin
 I'm thinking of managing my daily schedules in English
 I'm thinking of managing my daily schedules in English
 So would you tell me how people usually write them in their notebooks
-9:00～12:00 Group Discussion  about the  Hanai group at IB Room 101  
+9:00~12:00 Group Discussion  about the  Hanai group at IB Room 101  
 13:00 Go to the library and borrow a book on electromagnetism
-How to get to  the 白鳥 garden 
-Get off the subway at the 神宮西 station on the Mayjo Line
+How to get to  the ?? garden 
+Get off the subway at the ?? station on the Mayjo Line
 From the 4th exit,  walk straight for 10 minutes. (Take the 4th exit and walk straight for 10 minutes
-Go across the 白鳥 bridge and then turn right
+Go across the ?? bridge and then turn right
 Shopping list
 2  headset
 3  gift for a friend
@@ -590,11 +590,11 @@ I went out to the park with my friends to enjoy a picnic under the cherry blosso
 The park was congested  with many people. (It's okay to use 'congest', although I personally find it a little weird. Another word to use is \"crowded
 So it was not as if I could enjoying the pretty gardens
 But people were having fun with beer bottles in their hands and the foods of nearby stalls
-As the time went by, people are spending lesser time to appreciate nature. 意訳ですが
+As the time went by, people are spending lesser time to appreciate nature. ??
 But they still have hearts to love and enjoy having fun with friends! (I don't quite understand this sentence
 this was not what I was going to write
 So, see you then!"
-【PR】My best friend's band is releasing their major debut album on 4\/21
+?PR?My best friend's band is releasing their major debut album on 4\/21
 He is one of my best friends
 We went to the same school and had been in the same class for five years
 I wrote a journal entry about him and his band a while ago
@@ -612,8 +612,8 @@ I will write more about the energy problem sometime soon
 I have appointment with doctor tomorrow morning
 So I have to finish it tonight and leave him to turn it tomorrow morning
 I haven't dinner yet
-Sorry that I've been unable to correct your journals these days.(´；ω；｀
-So correcting your journal entries from that computer is really hard to do.(´・ω・
+Sorry that I've been unable to correct your journals these days.(�;?;`
+So correcting your journal entries from that computer is really hard to do.(��?�
 So I'm thinking I will bring the laptop computer which I usually use at home to the lab, and leave it there for some time
 Furthermore, my graduation research could be a kind of simulation stuff,I think. (Sorry, don't know what you are trying to say
 YES
@@ -628,7 +628,7 @@ and so, I used to take my meals at the school cafeteria, or just buy some conven
 And by gigantic city, I mean (it's) Tokyo
 Feng-Sui derives from China, long time ago
 But has been used in Japan since medieval times for a long time
-Where the queer monk, 天海, rearranged the whole city of Edo under the Feng-Shui's doctrine
+Where the queer monk, ??, rearranged the whole city of Edo under the Feng-Shui's doctrine
 To make the long story short, he changed the names of places around the castle
 He also placed many temples and Japanese style gardens under the Feng-Sui style
 Though many of Japanese are not aware of it
@@ -656,12 +656,12 @@ We walked about 10 or 20 minutes with a straggeringly!Lol - i don't know what yo
 We talked about many funny things (mostly indecent things) at there
 We stayed at there until morning
 I have TOEIC test in a months
-I didn't  write a journal entry last night.ｐ(≧ヘ≦。)ｑ
+I didn't  write a journal entry last night.p(??)q
 But the computer which was provided for me by the lab was really slow
 I tried to uninstall some applications and did a virus check (too). (It will sound more natural if you add \"too\" at the back of your sentence
 It took a couple of hours. (This is a set phrase, \"a couple of ...\", \"a set of...\", \"a dozen of...\" etc etc
 Then the workshop started
-When I got to home, it was (already) past 10 p.m. (＞、＜
+When I got to home, it was (already) past 10 p.m. (>?<
 I still could write a journal entry but I was too exhausted
 I need to be more steady
 And sleeps for only an hour
@@ -672,13 +672,13 @@ I feel proud of Japan's culture
 I also feel sad for the losses of that culture
 The Golden Week starts tomorrow
 There are many different theories regarding what motiveates human beings to act in the ways in the what they do
-I agree with the latter position because all human societal activities are directly or indirectly involved with other people around us. これの方がいいと思うけど。
+I agree with the latter position because all human societal activities are directly or indirectly involved with other people around us. ??
 Ultimately any kind of human actions are is molded by affection to from others
-And I'm in the middle of the section about \"Introduction.\" hehe!　（省略しても大丈夫だと思うよ）
+And I'm in the middle of the section about \"Introduction.\" hehe! (??)
 Now I'm writing a paper about the currents state and futeure prospects of the energy supprly in Japan
-格好いいな！＾＾難しいトピックじゃない？
+??!^^??
 The more I learn, the more obvious it is that the development of the nuclear power plant is reasonable
-いえいえ、ちゃんとできました！＾＾
+??!^^
 But, \"Haste makes wastes!\",\"Stay calm!\" and \"Be cool!\""
 Most of people say Eminem is one of the coarsest rappers in the history of music because of his behavior, words and his songs which are studded with insults
 He has put affronts upon affronted\/insulted many celebrities in his songs such as Michael Jackson, Elvis Presley and even his ex-wife. \"Put affronts upon\" might not be incorrect (I didn't check) but it sounds awkward
@@ -769,18 +769,18 @@ I hope we made an unforgettable memory for them
 I want to thank everyone who helped make this such successful party. 
 I parked on the street (around\/near from) the university
 And (place) where I parked was only 2 meters away from the crossroad
-I (had) to pay the penalty of it (for this)｡ﾟ(ﾟ´Д｀ﾟ)ﾟ｡
-The fine of (illegal) parking (is\/was) ￥18000
+I (had) to pay the penalty of it (for this)??(?�?`?)??
+The fine of (illegal) parking (is\/was) ?18000
 That was) so expensive
 But I (had) to accept (that\/it), otherwise I (would got) arrested
 Oh man, If I didn't commit (it), I could buy another monitor (and\/or) a graphic board!!! ---> are u for real?! 
 Oh, just in case, I will upload the picture of the area that you are not allowed to park
 Be careful when you park your car on (the\/that) road!"
-Last week we recieved a his health screening report, and it showed some unusual numerical values.*Note: Your sentences were fine, but I might write the two sentences this way
+Last week we recieved a�his health screening report, and it showed some unusual numerical values.*Note: Your sentences were fine, but I might write the two sentences this way
 It showed some unusual numerical values
 The doctor said he has the metastasis spread of cancer of all around his body
 The doctor also said his days are numbered, 3 months at the most
-I'm really proud of him. my grandpa
+I'm really proud of him.�my grandpa
 He has given me a lot of help in life
 When I hoped to study abroad in America, he was the one who approved and paid all of the expenses
 He also paid my tuition fees, and what's more he is saving to prepare for my graduation school fees
