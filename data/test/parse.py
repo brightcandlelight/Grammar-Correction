@@ -13,4 +13,11 @@ with open(sys.argv[1], "r") as ins:
             i = re.sub("[^\s\w\d\?><;,.\{\}\[\]\-_\+=!@\#\$%^&\*\|\'\\\"\(\):\/`~]", "", i)
             newSentence = newSentence+" "+i
         newSentence=newSentence.strip()
-        print(newSentence)  
+        
+        aa = re.findall("<[a-zA-Z \/]*>", newSentence)
+        for i in aa:
+            j = re.sub(" ", "", i)
+            newSentence = re.sub(i, j, newSentence)
+        newSentence=re.sub("  +", " ", newSentence)
+
+        print(newSentence)
