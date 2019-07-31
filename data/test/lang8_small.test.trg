@@ -7,20 +7,20 @@ I couldn't tell him what I was going to say well because the tears kept interefe
 And also I realized I can not possibly put my gratitude into words
 I vowed to work as much as I could and contribute to the world to his face
 Beyond that, I could only tell him \" Thank you for everything, everything you have given me.\" And I left his house with saying \" See you later
-If I were to die tomorrow, I would feel that I haven't yet shared enough of what my grandpa has given to me. couldn't put what he had gave to me to account enough
+If I were to�die tomorrow, I would feel that I haven't yet shared enough of what my grandpa has given to me. couldn't put what he had gave to me to account enough
 So I decided to try to take more oppotunities to tell my friends, my juniors and you who is reading my diary, what I learned until now
 And I'll try harder to leave more things in this world
 I represent my honorable grandpa
 I should never disgrace his honour
 Today I had my third time of the English conversation class
-日に一画足して9個漢字を作るという問題がとけません。
+??9??
 First we were given a piece of paper which is written the article (where an article was printed) but some sentences are blanked (were left blank
 Then the teacher read the article to us, and we filled in the blanks. [ I had never thought about \"filled in\" and \"filled out\" before. That's the beauty (one of the beauties) of Lang-8. You see your native language in a new light! The two phrases are almost alike. I would use \"fill in\" when completing a puzzle, and \"fill out\" for a job application or for a new doctor's file, information about yourself. ] 
 And we filled out (in) the blanks
-雨の日も、風の日も、靴の紐。[Japanese-style pun]. I think it is punny
+??[Japanese-style pun]. I think it is punny
 Oh, there is a home work (homework) due next week
 Then it hit me.\" [ \"Then it hit me\" is an expression that means \"I quickly realized.\" The pun here is that both the ball and the realization that the ball looked bigger because it was coming at you so fast (the nearer the ball comes, the closer you are to getting hit with it) both \"hit you\" at once -- the ball physically hit you and the realization mentally hit you. Here's another example: \"I wondered where I had left my umbrella. I searched the house. No luck. Then \"it hit me\" (I quickly, suddenly realized) I'd left it under my car seat.\" OR, \"I was daydreaming yesterday when suddenly a great idea hit me.\" (It came to me as fast as lightning.) 
-直訳：「球が近づいていたら、頭が打かられた。」\"hit me\"は「気が付く」も「ぶつかれた」もと言う意味です。
+??\"hit me\"??
 My favorite one is, \"There was a sign on the lawn at a (the) drug re-hab center that said 'Keep off the Grass
 Today I went to the Atsuta shrine and the Shiratori Japanese-style garden
 A Shinto shrine is a structure which is made built as the house of kami-sama
@@ -49,7 +49,7 @@ I cannot concentrate on anything else; but I'm just so in love with you
 my dear new bed."
 I'm not in a good shape
 This morning I woke up with a horrible stomachache
-So I ran into the bathroom as soon as I left the bed. 他の言い方： So I rushed into the bathroom the moment I left my bed\/woke up. (This is slightly more natural but your sentence is okay too
+So I ran into the bathroom as soon as I left the bed. ?? So I rushed into the bathroom the moment I left my bed\/woke up. (This is slightly more natural but your sentence is okay too
 I didn't feel good since last Saturday
 This happens periodically\/occasionally
 It's like, only the air is being thin only around me becomes very thin
@@ -66,7 +66,7 @@ It might be the best movie I've ever watched. [or \"ever seen
 I have watched many movies. [or \"have seen
 But I had never watched such a movie before. [seen
 So I don't know how to comment on it
-Actually, Radiohead’s Last Flowers is used as an ending song for the film
+Actually, Radiohead�s Last Flowers is used as an ending song for the film
 I've heard the news that Hollywood is remaking it with Daniel Radcliffe and Nicole Kidman
 I'm sure it will fail
 Because I'm sure that it is impossible to make this movie except in Japanese\/in Japan\/for a Japanese audience
@@ -74,15 +74,15 @@ What I'm trying to say is, even if you are a great chef, you can't make a Japane
 Ah, I can't quite express my feelings
 There is only one thing that I am sure of
 It is that I am glad that I could watch this movie
-After we had lunch at 矢場とん, we went to the Nagoya Castle!　(You don't need 'the' since Nagoya is considered the name of the castle.) 
+After we had lunch at ??, we went to the Nagoya Castle! (You don't need 'the' since Nagoya is considered the name of the castle.) 
 Perhaps I had been there before, but I didn't remember anything of it
 They looked realistic. (They looked like the real thing
-Then we moved to 栄 and went to the restaurant which serves a cake buffet
+Then we moved to ? and went to the restaurant which serves a cake buffet
 They served more than 15 kinds of cakes and we could eat as many as we wanted! (I think in all cases, instead of 'serve\/served', I would use 'have\/had' instead. Serving implies that it is handed over to you in person. And usually that's not the case with a buffet. 
 They served cream puffs, custard puddings, short cakes, and many other cakes which I had never seen before
 The clerks ,customers and everyone in the house sang birthday song toghether
 We had plenty of cakes and a great time
-Then we took 名無しさん and Porschla to the bus station and they departed for Takayama
+Then we took ?? and Porschla to the bus station and they departed for Takayama
 They had a free day in Nagoya because the flight reserved would departure this afternoon
 Depression
 I feel tired the last These past few days, I have been very tired

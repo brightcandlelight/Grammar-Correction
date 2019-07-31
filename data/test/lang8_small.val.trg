@@ -1,5 +1,5 @@
 I would appreciate it if you could correct my sentences
-It's been getting colder lately here in Japan. (\"These days\" is a phrase I often hear Japanese and Korean native speakers use in their English, although in native English speakers would probably say \"lately\" or \"recently\". It's sort of the equivalent of æœ€è¿‘
+It's been getting colder lately here in Japan. (\"These days\" is a phrase I often hear Japanese and Korean native speakers use in their English, although in native English speakers would probably say \"lately\" or \"recently\". It's sort of the equivalent of ??
 I find Japan's summer weather disagreeable because of its high humidity and temperature
 So, as the winter is coming, I'm starting to feel better
 It is a very exciting season
@@ -24,47 +24,47 @@ I dont know why I can't recognize \"ea\" \"i\" ,such as, \"cheap as chips
 If I said that sentence, people will hear the same pronounciation
 2 months later, I am going to back to Korea
 I just learned the alphabet
-It is said that because the Korean grammar is similar to the Japaneseâ€™s, so that the Korean who study Japanese take about 1 year to speak Japanese fluently, while the other foreigners have to take 3 or 4 years or more
-I found that the Korean alphabet is easier to write than the Japaneseâ€™s
+It is said that because the Korean grammar is similar to the Japanese’s, so that the Korean who study Japanese take about 1 year to speak Japanese fluently, while the other foreigners have to take 3 or 4 years or more
+I found that the Korean alphabet is easier to write than the Japanese’s
 How about the way to spell
-And after I entered the Japanese department, I even canâ€™t recall any English grammar that I learned before
-But itâ€™s also said that itâ€™s very difficult to learn both of them well
+And after I entered the Japanese department, I even can’t recall any English grammar that I learned before
+But it’s also said that it’s very difficult to learn both of them well
 One time, I had a Japanese examination
 The Japanese who see a katakana word just spell it normally but we who had learnt English before see a katakana word, we just try to think of an English word and then spell it
 I like English very much but I chose the Japanese department for no reason
-Then I asked my brother for advice, he said that â€œI like Japanese
+Then I asked my brother for advice, he said that “I like Japanese
 I was acquainted with him in a Chinese chat room when I was at 9th grade about 4 years ago
-He is a very special person, even though weâ€™ve met in real life yet
+He is a very special person, even though we’ve met in real life yet
 He is 8 years older than me but he is just a friend
 He is very humorous and handsome 
-He can always make me smile even when Iâ€™m in a bad mood
+He can always make me smile even when I’m in a bad mood
 But in my university, at the second year of regular training, we can choose a second qualification if we want and be able to study both well
-My university has about 11 foreign language departments and some other department where they teach economics, travel business, computers, and so onâ€¦ If weâ€™re learning a foreign language, weâ€™re advised to choose the economics or travel bussiness department so that when we graduate we will have the best job
+My university has about 11 foreign language departments and some other department where they teach economics, travel business, computers, and so on… If we’re learning a foreign language, we’re advised to choose the economics or travel bussiness department so that when we graduate we will have the best job
 So next year, I intend to choose the English department for the second qualification
-When weâ€™re at the third year, we have a compulsory subject
-Itâ€™s different from the second qualification
-Because the second qualification also has economics, travel business, computersâ€¦ training and it isnâ€™t compulsory
-For example, Iâ€™m learning Japanese, I have to choose one of the 10 other foreign languages
+When we’re at the third year, we have a compulsory subject
+It’s different from the second qualification
+Because the second qualification also has economics, travel business, computers… training and it isn’t compulsory
+For example, I’m learning Japanese, I have to choose one of the 10 other foreign languages
 So, if next year I choose the English department, the year after I may choose Korean for second foreign language
 To learn almost fluent Japanese, we have 4 years
 After that, I am not sure that we can be able to speak it fluently
-Itâ€™s called â€œthe love languageâ€, isnâ€™t it
+It’s called “the love language”, isn’t it
 Do you know our Uncle Ho was able to speak fluently more than 10 foreign languages
-I canâ€™t do it like that but I wish I could learn at least 4: Japanese, English, Korean and French
+I can’t do it like that but I wish I could learn at least 4: Japanese, English, Korean and French
 Do I have the ability to do it
-Iâ€™m very worried about it
+I’m very worried about it
 This time  we still have to test 4 Japanese skills
-Iâ€™m very nervous of speaking and listening skills
-It was so bad, wasnâ€™t it? The essay topic this time will be random
-Iâ€™ll have to write anything in Japanese as the topic requests
+I’m very nervous of speaking and listening skills
+It was so bad, wasn’t it? The essay topic this time will be random
+I’ll have to write anything in Japanese as the topic requests
 Life is short
 to try hard
 We wore wedding dresses despite the absence of our bridegrooms
 WishI send my best wishes for to her..  I know this might sound strainge, but this is a very common usage in English - to send someone good wishes on a birthday or other occasion
-That is Those are my motherâ€™s pictures, which were taken when she was younger.  Young is also correct, but the word younger is more polite, as it doesn't imply she is so old now
+That is Those are my mother’s pictures, which were taken when she was younger.  Young is also correct, but the word younger is more polite, as it doesn't imply she is so old now
 Isn't she beautiful
-My computerâ€™s CD ROM was broken so I canâ€™t install Japanese font
-Iâ€™ll try to continue this diary one near day next day
+My computer’s CD ROM was broken so I can’t install Japanese font
+I’ll try to continue this diary one near day next day
 There is a big difference between the east and the west, when comes to education. I always admired how the westerners educate their posterity, their method is so gentle and kind, full of love and meaning, whereas the Asian method is rather more of violence more violent, for example the Chinese people believe that a child should be educated with rods
 Countless beatings from their parent is believed to be capable of forging a successful child! That's how I was brought up at least. My parent always tell me how much they love me, although they served me with rod every time I committed a wrong doing. However, when comes to the western way of parenting, it sounds like a fairy tale to me. For example, the western parents always said this to their child if they happened to be repudiate, the parent will say this \"go to your room!\" This is something that will never happen in an Asian family
 Maybe our parents would never realize the trauma they had inflicted on us!"
@@ -80,7 +80,7 @@ Now its snowing in Tokyo
 When I was a child, I liked snow. Or...When I was a child, I liked when it snowed
 It makes me feel worried due to traffic problem and so on
 in such a temperature
-China opposes Paris' award for Dalai Lama (ä¸­å›½åå¯¹å·´é»ä¸ºè¾¾èµ–å–‡å˜›æˆå¥–
+China opposes Paris' award for Dalai Lama (??
 China On Tuesday, China condemned the honorary citizen award from Paris for the Dalai Lama, saying it posed \"a grave interference in Sino-French relations
 Chinese Foreign Ministry spokesman Qin Gang said China was indignant and resolutely opposed Paris's award for the Dalai Lama made despite China's opposition. (when a word ends in 's' you only have to put '    [For example James' bike is nice
 Such a move stirs strong indignation among the Chinese people,\" Qin said, noting that inevitably, it would severely undermine the cooperation between Paris and Chinese cities, and gravely disturb China-France relations
