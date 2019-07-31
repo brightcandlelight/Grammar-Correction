@@ -24,47 +24,47 @@ I dont know why I can't recognize \"ea\" \"i\" ,such as, \"cheap as chips
 If I said that sentence, people will hear the same pronounciation
 2 months later, I am going to back to Korea
 I just learned the alphabet
-It is said that because the Korean grammar is similar to the Japanese’s, so that the Korean who study Japanese take about 1 year to speak Japanese fluently, while the other foreigners have to take 3 or 4 years or more
-I found that the Korean alphabet is easier to write than the Japanese’s
+It is said that because the Korean grammar is similar to the Japaneseâ€™s, so that the Korean who study Japanese take about 1 year to speak Japanese fluently, while the other foreigners have to take 3 or 4 years or more
+I found that the Korean alphabet is easier to write than the Japaneseâ€™s
 How about the way to spell
-And after I entered the Japanese department, I even can’t recall any English grammar that I learned before
-But it’s also said that it’s very difficult to learn both of them well
+And after I entered the Japanese department, I even canâ€™t recall any English grammar that I learned before
+But itâ€™s also said that itâ€™s very difficult to learn both of them well
 One time, I had a Japanese examination
 The Japanese who see a katakana word just spell it normally but we who had learnt English before see a katakana word, we just try to think of an English word and then spell it
 I like English very much but I chose the Japanese department for no reason
-Then I asked my brother for advice, he said that “I like Japanese
+Then I asked my brother for advice, he said that â€œI like Japanese
 I was acquainted with him in a Chinese chat room when I was at 9th grade about 4 years ago
-He is a very special person, even though we’ve met in real life yet
+He is a very special person, even though weâ€™ve met in real life yet
 He is 8 years older than me but he is just a friend
 He is very humorous and handsome 
-He can always make me smile even when I’m in a bad mood
+He can always make me smile even when Iâ€™m in a bad mood
 But in my university, at the second year of regular training, we can choose a second qualification if we want and be able to study both well
-My university has about 11 foreign language departments and some other department where they teach economics, travel business, computers, and so on… If we’re learning a foreign language, we’re advised to choose the economics or travel bussiness department so that when we graduate we will have the best job
+My university has about 11 foreign language departments and some other department where they teach economics, travel business, computers, and so onâ€¦ If weâ€™re learning a foreign language, weâ€™re advised to choose the economics or travel bussiness department so that when we graduate we will have the best job
 So next year, I intend to choose the English department for the second qualification
-When we’re at the third year, we have a compulsory subject
-It’s different from the second qualification
-Because the second qualification also has economics, travel business, computers… training and it isn’t compulsory
-For example, I’m learning Japanese, I have to choose one of the 10 other foreign languages
+When weâ€™re at the third year, we have a compulsory subject
+Itâ€™s different from the second qualification
+Because the second qualification also has economics, travel business, computersâ€¦ training and it isnâ€™t compulsory
+For example, Iâ€™m learning Japanese, I have to choose one of the 10 other foreign languages
 So, if next year I choose the English department, the year after I may choose Korean for second foreign language
 To learn almost fluent Japanese, we have 4 years
 After that, I am not sure that we can be able to speak it fluently
-It’s called “the love language”, isn’t it
+Itâ€™s called â€œthe love languageâ€, isnâ€™t it
 Do you know our Uncle Ho was able to speak fluently more than 10 foreign languages
-I can’t do it like that but I wish I could learn at least 4: Japanese, English, Korean and French
+I canâ€™t do it like that but I wish I could learn at least 4: Japanese, English, Korean and French
 Do I have the ability to do it
-I’m very worried about it
+Iâ€™m very worried about it
 This time  we still have to test 4 Japanese skills
-I’m very nervous of speaking and listening skills
-It was so bad, wasn’t it? The essay topic this time will be random
-I’ll have to write anything in Japanese as the topic requests
+Iâ€™m very nervous of speaking and listening skills
+It was so bad, wasnâ€™t it? The essay topic this time will be random
+Iâ€™ll have to write anything in Japanese as the topic requests
 Life is short
 to try hard
 We wore wedding dresses despite the absence of our bridegrooms
 WishI send my best wishes for to her..  I know this might sound strainge, but this is a very common usage in English - to send someone good wishes on a birthday or other occasion
-That is Those are my mother’s pictures, which were taken when she was younger.  Young is also correct, but the word younger is more polite, as it doesn't imply she is so old now
+That is Those are my motherâ€™s pictures, which were taken when she was younger.  Young is also correct, but the word younger is more polite, as it doesn't imply she is so old now
 Isn't she beautiful
-My computer’s CD ROM was broken so I can’t install Japanese font
-I’ll try to continue this diary one near day next day
+My computerâ€™s CD ROM was broken so I canâ€™t install Japanese font
+Iâ€™ll try to continue this diary one near day next day
 There is a big difference between the east and the west, when comes to education. I always admired how the westerners educate their posterity, their method is so gentle and kind, full of love and meaning, whereas the Asian method is rather more of violence more violent, for example the Chinese people believe that a child should be educated with rods
 Countless beatings from their parent is believed to be capable of forging a successful child! That's how I was brought up at least. My parent always tell me how much they love me, although they served me with rod every time I committed a wrong doing. However, when comes to the western way of parenting, it sounds like a fairy tale to me. For example, the western parents always said this to their child if they happened to be repudiate, the parent will say this \"go to your room!\" This is something that will never happen in an Asian family
 Maybe our parents would never realize the trauma they had inflicted on us!"
@@ -249,15 +249,15 @@ Thank you for reading this entry\/article
 I would be glad if you would correct this
 I like reading books
 I have read it several time in English to study English
-Do you know “The little prince” story
+Do you know â€œThe little princeâ€ story
 The little prince lives in a small planet. There are two small volcanoes and a rose
 He waters the rose and protects it from cold weather
 And prince decides go away from the rose
-Then I wondered what the rose means on prince’s planet
+Then I wondered what the rose means on princeâ€™s planet
 And I checked it on the internet
 Her name is ??
-It's because ??=??’s family doesn't like her
-Then someone found a lot of letters, pictures, and a lot of stuff in a big ??=??’s trunk
+It's because ??=??â€™s family doesn't like her
+Then someone found a lot of letters, pictures, and a lot of stuff in a big ??=??â€™s trunk
 He died by a planned accident
 When he died, he was wearing a bracelet with the stamp of ??
 So he loved her so much
@@ -290,11 +290,11 @@ Finally I could meet my friend
 at LA."
 I begin to like baseball games.(??)
 I went to see a baseball game with some of my friends at KOUSHIEN
-I didn’t like baseball until I watched the game
+I didnâ€™t like baseball until I watched the game
 That why,  we were singing a song, when the players were standing at the butter box. (batter box
 all player has each song  one of player had a homeback hit
 The team we were rooting for won.(rooting for = supporting, hoping would win)"
-the title is “The beauty and the beast”
+the title is â€œThe beauty and the beastâ€
 It is famous for everyone in the world
 Most  of people know it
 Then I have examined it searched for its related information on the internet
@@ -321,7 +321,7 @@ I am so thankful for their help
 That's why
 I want to help other people who seems to be in need of help too. problem."
 I had a chance to talk with a customer from Korea
-He could speak English, so then, I tried to ask “Would you like to have a cup of coffee or tea?\" 
+He could speak English, so then, I tried to ask â€œWould you like to have a cup of coffee or tea?\" 
 But the person sitting next to me, a Japanese businessman, interpreted my English to English. 
 I was disappointed
 I need to keep practicing my English speaking."
@@ -369,7 +369,7 @@ For instance,\"Cyclone Memory\" which improves its speed, \"Metal Memory\" harde
 And they fight while having a good command of 2 of them
 They can only insert 2 drives at once
 It tickles my engineerity! (Ha, I guess I know what you mean by 'engineerity' ^_^, but maybe something more likely would be: 'engineerness'? This isn't really a word either, but I think I would use that over an 'ity' ending. For something proper, maybe 'it tickles my engineer character', 'it tickles the engineer in me' would be better- 
-Do you like it?(*´?`) (This is proper English. In casual English, you can use what you wrote
+Do you like it?(*Â´?`) (This is proper English. In casual English, you can use what you wrote
 When I was going for a moonlit stroll this night\/evening, I heard that \"bell-ringing\" crickets were singing
 I recognized that the summer is finally ending and the autumn is falling\/coming\/following
 I've heard that any people do not no one enjoys the songs of the crickets besides the Japaneses
@@ -446,7 +446,7 @@ null
 null
 The Love and the Japanese language
 Japanese, however, hadn't have the proper word which signifies \"love\" then because of the sensibilities and lyricism. (sensibilities and lyricism
-When one of his students translated \"I love you\" into Japanese as ”??\", he warned him against that translation
+When one of his students translated \"I love you\" into Japanese as â€??\", he warned him against that translation
 Japanese would say  \"??\"(which means \"The moon looks more beautiful tonight\") instead
 I think what he meant was that \"love\" is the feeling that makes the moon looks brighter than the moon you (usually) see by yourself
 Continuing from my previous journal entries
@@ -712,8 +712,8 @@ I will write more about the energy problem sometime soon
 I have appointment with doctor tomorrow morning
 So I have to finish it tonight and leave him to turn it tomorrow morning
 I haven't dinner yet
-Sorry that I've been unable to correct your journals these days.(´;?;`
-So correcting your journal entries from that computer is really hard to do.(´·?·
+Sorry that I've been unable to correct your journals these days.(Â´;?;`
+So correcting your journal entries from that computer is really hard to do.(Â´Â·?Â·
 So I'm thinking I will bring the laptop computer which I usually use at home to the lab, and leave it there for some time
 Furthermore, my graduation research could be a kind of simulation stuff,I think. (Sorry, don't know what you are trying to say
 YES
@@ -869,18 +869,18 @@ I hope we made an unforgettable memory for them
 I want to thank everyone who helped make this such successful party. 
 I parked on the street (around\/near from) the university
 And (place) where I parked was only 2 meters away from the crossroad
-I (had) to pay the penalty of it (for this)??(?´?`?)??
+I (had) to pay the penalty of it (for this)??(?Â´?`?)??
 The fine of (illegal) parking (is\/was) ?18000
 That was) so expensive
 But I (had) to accept (that\/it), otherwise I (would got) arrested
 Oh man, If I didn't commit (it), I could buy another monitor (and\/or) a graphic board!!! ---> are u for real?! 
 Oh, just in case, I will upload the picture of the area that you are not allowed to park
 Be careful when you park your car on (the\/that) road!"
-Last week we recieved a his health screening report, and it showed some unusual numerical values.*Note: Your sentences were fine, but I might write the two sentences this way
+Last week we recieved aÂ his health screening report, and it showed some unusual numerical values.*Note: Your sentences were fine, but I might write the two sentences this way
 It showed some unusual numerical values
 The doctor said he has the metastasis spread of cancer of all around his body
 The doctor also said his days are numbered, 3 months at the most
-I'm really proud of him. my grandpa
+I'm really proud of him.Â my grandpa
 He has given me a lot of help in life
 When I hoped to study abroad in America, he was the one who approved and paid all of the expenses
 He also paid my tuition fees, and what's more he is saving to prepare for my graduation school fees
@@ -907,7 +907,7 @@ I couldn't tell him what I was going to say well because the tears kept interefe
 And also I realized I can not possibly put my gratitude into words
 I vowed to work as much as I could and contribute to the world to his face
 Beyond that, I could only tell him \" Thank you for everything, everything you have given me.\" And I left his house with saying \" See you later
-If I were to die tomorrow, I would feel that I haven't yet shared enough of what my grandpa has given to me. couldn't put what he had gave to me to account enough
+If I were toÂ die tomorrow, I would feel that I haven't yet shared enough of what my grandpa has given to me. couldn't put what he had gave to me to account enough
 So I decided to try to take more oppotunities to tell my friends, my juniors and you who is reading my diary, what I learned until now
 And I'll try harder to leave more things in this world
 I represent my honorable grandpa
@@ -966,7 +966,7 @@ It might be the best movie I've ever watched. [or \"ever seen
 I have watched many movies. [or \"have seen
 But I had never watched such a movie before. [seen
 So I don't know how to comment on it
-Actually, Radiohead’s Last Flowers is used as an ending song for the film
+Actually, Radioheadâ€™s Last Flowers is used as an ending song for the film
 I've heard the news that Hollywood is remaking it with Daniel Radcliffe and Nicole Kidman
 I'm sure it will fail
 Because I'm sure that it is impossible to make this movie except in Japanese\/in Japan\/for a Japanese audience

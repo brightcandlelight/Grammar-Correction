@@ -7,7 +7,7 @@ I couldn't tell him what I was going to say well because the tears kept interefe
 And also I realized I can not possibly put my gratitude into words
 I vowed to work as much as I could and contribute to the world to his face
 Beyond that, I could only tell him \" Thank you for everything, everything you have given me.\" And I left his house with saying \" See you later
-If I were to die tomorrow, I would feel that I haven't yet shared enough of what my grandpa has given to me. couldn't put what he had gave to me to account enough
+If I were toÂ die tomorrow, I would feel that I haven't yet shared enough of what my grandpa has given to me. couldn't put what he had gave to me to account enough
 So I decided to try to take more oppotunities to tell my friends, my juniors and you who is reading my diary, what I learned until now
 And I'll try harder to leave more things in this world
 I represent my honorable grandpa
@@ -66,7 +66,7 @@ It might be the best movie I've ever watched. [or \"ever seen
 I have watched many movies. [or \"have seen
 But I had never watched such a movie before. [seen
 So I don't know how to comment on it
-Actually, Radiohead’s Last Flowers is used as an ending song for the film
+Actually, Radioheadâ€™s Last Flowers is used as an ending song for the film
 I've heard the news that Hollywood is remaking it with Daniel Radcliffe and Nicole Kidman
 I'm sure it will fail
 Because I'm sure that it is impossible to make this movie except in Japanese\/in Japan\/for a Japanese audience
