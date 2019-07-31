@@ -1,100 +1,100 @@
-And his <unk> <unk> are <unk> in me 
-<unk> <unk> I was n't going to <unk> 
-I was going there <unk> him 
-When I saw him and his <unk> face , I could n't check the <unk> of <unk> 
-I 've realized what I am facing , he is <unk> away 
-I could n't tell him what I was going to say well because the <unk> kept <unk> 
-And also I realized I can not <unk> put my <unk> into <unk> 
-I <unk> to work as much as I could and <unk> to the world to his face 
-<unk> that , I could only tell him \ " <unk> you for <unk> , <unk> you have given <unk> " And I left his house with <unk> \ " <unk> you <unk> 
-<unk> I were to   <unk> tomorrow , I would feel that I have n't yet <unk> enough of what my <unk> has given to me <unk> could n't put what he had <unk> to me to <unk> enough 
-So I decided to try to take more <unk> to tell my friends , my <unk> and you who is reading my <unk> , what I learned until now 
-And I <unk> try <unk> to leave more things in this world 
-I <unk> my <unk> <unk> 
-I should never <unk> his <unk> 
-Today I had my <unk> time of the English conversation class 
-<unk> <unk> 
-First we were given a <unk> of <unk> which is written the <unk> ( where an <unk> was <unk> ) but some <unk> are <unk> ( were left <unk> 
-Then the teacher <unk> the <unk> to us , and we <unk> in the <unk> <unk> <unk> I had never thought about <unk> <unk> " and <unk> <unk> " before <unk> That 's the <unk> ( one of the <unk> ) of <unk> <unk> You see your <unk> <unk> in a <unk> <unk> <unk> The two <unk> are almost <unk> <unk> I would use <unk> <unk> " when <unk> a <unk> , and <unk> <unk> " for a <unk> <unk> or for a <unk> doctor 's <unk> , <unk> about <unk> <unk> <unk> 
-And we <unk> out ( in ) the <unk> 
-<unk> - <unk> <unk> I think it is <unk> 
-Oh , there is a home work ( homework ) due next week 
-Then it <unk> <unk> " <unk> <unk> it <unk> <unk> " is an <unk> that means <unk> <unk> <unk> " The <unk> here is that <unk> the <unk> and the <unk> that the <unk> looked <unk> because it was <unk> at you so fast ( the <unk> the <unk> <unk> , the <unk> you are to <unk> <unk> with it ) <unk> <unk> <unk> " at once <unk> the <unk> <unk> <unk> you and the <unk> <unk> <unk> you <unk> Here 's another <unk> <unk> <unk> <unk> where I had left my <unk> <unk> I <unk> the house <unk> No <unk> <unk> Then <unk> <unk> <unk> " ( I <unk> , <unk> realized ) I <unk> left it under my car <unk> " <unk> , <unk> was <unk> yesterday when <unk> a great <unk> <unk> <unk> " ( It came to me as fast as <unk> <unk> )
-<unk> <unk> <unk> 
-My favorite one is , <unk> was a <unk> on the <unk> at a ( the ) <unk> <unk> - <unk> <unk> that said ' <unk> off the <unk> 
-Today I went to the <unk> <unk> and the <unk> Japanese - <unk> garden 
-A <unk> <unk> is a <unk> which is made <unk> as the house of <unk> - <unk> 
-It 's placed in a It 's only an hour from my house but I had never been there before 
-I love your <unk> <unk> <unk> <unk> 
-<unk> I felt like <unk> <unk> <unk> of <unk> " was were there 
-<unk> I walk on this <unk> 
-There Here are some <unk> about <unk> <unk> at a <unk> 
-2 You have to must walk on the left <unk> of the road because its <unk> is for only the <unk> - <unk> to walk <unk> may walk in the <unk> 
-Then <unk> your <unk> <unk> , <unk> and make a wish with your <unk> in your <unk> 
-At this <unk> , After you make your wish , you should n't speak your wish in <unk> <unk> say it <unk> 
-These are some of the <unk> of <unk> 
-But I saw many people who did n't <unk> them 
-Japanese - <unk> <unk> are <unk> made in <unk> of the <unk> <unk> 
-And this is the <unk> Japanese - <unk> garden in Nagoya which that <unk> the <unk> of this area 
-It has a <unk> <unk> 
-I think <unk> of the <unk> will be really beautiful when they will turn in <unk> and it must be really beautiful 
-It 's been 2 days since I met you , my <unk> is full of you 
-Because if I <unk> you I think <unk> I 've <unk> is gon na <unk> 
-That <unk> could <unk> you 
-<unk> I had got on you in my birthday <unk> , 
-<unk> held by you until the moon set over the sea , and <unk> the <unk> of the <unk> of the sky 
-I would 've not be feeling this <unk> 
-Oh ) How many times will I have more <unk> <unk> will I have 
-I can not <unk> on anything <unk> <unk> but I 'm just so in love with you 
-my <unk> <unk> bed <unk> " 
-I 'm not in a good <unk> 
-This morning I <unk> up with a <unk> <unk> 
-So I <unk> into the <unk> as <unk> as I left the bed <unk> <unk> <unk> So I <unk> into the <unk> the <unk> I left my <unk> up <unk> ( This is <unk> more <unk> but your sentence is <unk> too
-I did n't feel good since last Saturday 
-This <unk> <unk> 
-It 's like , only the <unk> is <unk> <unk> only around me <unk> very <unk> 
-I ca n't <unk> my <unk> on my <unk> 
-I made a <unk> to myself <unk> 
-<unk> the day of my birthday , I decided to never <unk> to write a journal entry <unk> 
-This was way I was in a <unk> last night 
-It is the <unk> <unk> for me to <unk> my <unk> 
-But I will <unk> it up 
-I will try to <unk> through <unk> <unk> <unk> ( <unk> <unk> " is a little <unk> here 
-Now it 's <unk> in Japan now 
-<unk> , <unk> do n't know what <unk> I can say 
-It might be the best <unk> I 've <unk> <unk> <unk> <unk> or <unk> <unk> 
-I have <unk> many <unk> <unk> <unk> or <unk> <unk> 
-But I had never <unk> such a <unk> before <unk> <unk> <unk> 
-So I do n't know how to <unk> on it 
-Actually , <unk> ’s Last <unk> is used as an <unk> song for the <unk> 
-I 've heard the <unk> that <unk> is <unk> it with <unk> <unk> and <unk> <unk> 
-I 'm sure it will <unk> 
-Because I 'm sure that it is <unk> to make this <unk> <unk> in <unk> <unk> a Japanese <unk> 
-What I 'm trying to say is , even if you are a great <unk> , you ca n't make a Japanese <unk> with <unk> <unk> 
-<unk> , I ca n't <unk> <unk> my <unk> 
-There is only one thing that I am sure of 
-It is that I am glad that I could watch this <unk> 
-After we had lunch at <unk> , we went to the Nagoya <unk> <unk>   ( You do n't need ' the ' since Nagoya is <unk> the name of the <unk> <unk> ) 
-<unk> I had been there before , but I did n't <unk> anything of it 
-They looked <unk> <unk> ( They looked like the <unk> thing 
-Then we <unk> to <unk> and went to the restaurant which <unk> a cake <unk> 
-They <unk> more than <unk> <unk> of <unk> and we could eat as many as we wanted <unk> ( I think in all <unk> , instead of ' <unk> ' , I would use ' <unk> ' instead <unk> <unk> <unk> that it is <unk> over to you in <unk> <unk> And usually that 's not the <unk> with a <unk> <unk>
-They <unk> <unk> <unk> , <unk> <unk> , short <unk> , and many other <unk> which I had never <unk> before 
-The <unk> , <unk> and everyone in the house <unk> birthday song <unk> 
-We had <unk> of <unk> and a great time 
-Then we took ?? and Porschla to the <unk> station and they <unk> for Takayama 
-They had a free day in Nagoya because the <unk> <unk> would <unk> this <unk> 
-<unk> 
-I feel tired the last These past few days , I have been very tired 
-<unk> school 's rock <unk> <unk> that I become next year the activities ' <unk> of rock <unk> next year 
-I have to host our <unk> 's <unk> <unk> <unk> <unk> <unk> of <unk> <unk> <unk> 
-A lots of things around me <unk> <unk> , <unk> , <unk> , <unk> <unk> I have a lot of things going on right now <unk> <unk> <unk> , <unk> , <unk> , <unk>
-I feel felt so tired and I <unk> <unk> times 
-I do n't have time to do for myself 
-How can I do it 
-I feel so <unk> <unk> <unk> " 
-How to <unk> <unk> <unk> are <unk> <unk> 
-When I was <unk> , I found it very easy to make a <unk> friend 
-However , it 's more and more hard now 
-<unk> <unk> , I think it is because of the <unk> of <unk> 
-When we are little , we even do n't know what is right and what is <unk> 
+And his  < un k >  < un k > are  < un k > in me
+< un k >  < un k > I was  n ' t going to  < un k >
+I was going there  < un k > him
+When I saw him and his  < un k > face  , I could  n ' t c he c k the  < un k > of  < un k >
+I  ' ve re al i z ed what I am f a c ing  , he is  < un k > away
+I could  n ' t tell him what I was going to say well because the  < un k > kept  < un k >
+And also I re al i z ed I can not  < un k > put my  < un k > into  < un k >
+I  < un k > to work as much as I could and  < un k > to the world to his face
+< un k > that  , I could only tell him   "  < un k > you for  < un k >  ,  < un k > you have give n  < un k > " And I left his house with  < un k >   "  < un k > you  < un k >
+< un k > I were to  < un k > tomorrow  , I would feel that I have  n ' t yet  < un k > enough of what my  < un k > has give n to me  < un k > could  n ' t put what he had  < un k > to me to  < un k > enough
+So I de c id ed to try to take more  < un k > to tell my friend s  , my  < un k > and you who is read ing my  < un k >  , what I  le ar n ed unti l now
+And I  < un k > try  < un k > to leave more things in this world
+I  < un k > my  < un k >  < un k >
+I should never  < un k > his  < un k >
+To day I had my  < un k > time of the English con ver s ation class
+< un k >  < un k >
+F ir st we were give n a  < un k > of  < un k > which is written the  < un k > ( where an  < un k > was  < un k >  ) but some  < un k > are  < un k > ( were left  < un k >
+Then the teacher  < un k > the  < un k > to us  , and we  < un k > in the  < un k >  < un k >  < un k > I had never thought about  < un k >  < un k > " and  < un k >  < un k > " before  < un k >  That  ' s the  < un k > ( one of the  < un k >  ) of  < un k >  < un k > You see your  < un k >  < un k > in a  < un k >  < un k >  < un k > The two  < un k > are almost  < un k >  < un k > I would us e  < un k >  < un k > " when  < un k > a  < un k >  , and  < un k >  < un k > " for a  < un k >  < un k > or for a  < un k > do c t or  ' s  < un k >  ,  < un k > about  < un k >  < un k >  < un k >
+And we  < un k > out ( in  ) the  < un k >
+< un k >  -  < un k >  < un k > I think it is  < un k >
+O h  , there is a home work ( home w or k  ) d u e next week
+Then it  < un k >  < un k > "  < un k >  < un k > it  < un k >  < un k > " is an  < un k > that mean s  < un k >  < un k >  < un k > " The  < un k > here is that  < un k > the  < un k > and the  < un k > that the  < un k > looked  < un k > because it was  < un k > at you so f a st ( the  < un k > the  < un k >  < un k >  , the  < un k > you are to  < un k >  < un k > with it  )  < un k >  < un k >  < un k > " at once  < un k > the  < un k >  < un k >  < un k > you and the  < un k >  < un k >  < un k > you  < un k > He re  ' s another  < un k >  < un k >  < un k >  < un k > where I had left my  < un k >  < un k > I  < un k > the house  < un k > No  < un k >  < un k > Then  < un k >  < un k >  < un k > " ( I  < un k >  ,  < un k > re al i z ed  ) I  < un k > left it under my c ar  < un k > "  < un k >  ,  < un k > was  < un k > yesterday when  < un k > a great  < un k >  < un k >  < un k > " ( It came to me as f a st as  < un k >  < un k >  )
+< un k >  < un k >  < un k >
+My favor ite one is  ,  < un k > was a  < un k > on the  < un k > at a ( the  )  < un k >  < un k >  -  < un k >  < un k > that said  '  < un k > off the  < un k >
+To day I went to the  < un k >  < un k > and the  < un k >  J a p an e se  -  < un k > ga r d en
+A  < un k >  < un k > is a  < un k > which is made  < un k > as the house of  < un k >  -  < un k >
+It  ' s place d in a It  ' s only an hour from my house but I had never been there before
+I l o ve your  < un k >  < un k >  < un k >  < un k >
+< un k > I felt like  < un k >  < un k >  < un k > of  < un k > " was were there
+< un k > I walk on this  < un k >
+There He re are some  < un k > about  < un k >  < un k > at a  < un k >
+2 You have to must walk on the left  < un k > of the  ro ad because it s  < un k > is for only the  < un k >  -  < un k > to walk  < un k > may walk in the  < un k >
+Then  < un k > your  < un k >  < un k >  ,  < un k > and make a wish with your  < un k > in your  < un k >
+A t this  < un k >  , A fter you make your wish  , you should  n ' t speak your wish in  < un k >  < un k > say it  < un k >
+The se are some of the  < un k > of  < un k >
+But I saw many people who did  n ' t  < un k > them
+J a p an e se  -  < un k >  < un k > are  < un k > made in  < un k > of the  < un k >  < un k >
+And this is the  < un k >  J a p an e se  -  < un k > ga r d en in  N a g o y a which that  < un k > the  < un k > of this are a
+It has a  < un k >  < un k >
+I think  < un k > of the  < un k > will be re ally beautiful when they will turn in  < un k > and it must be re ally beautiful
+It  ' s been  2 days since I me t you  , my  < un k > is full of you
+B e c a us e if I  < un k > you I think  < un k > I  ' ve  < un k > is go n  n a  < un k >
+That  < un k > could  < un k > you
+< un k > I had got on you in my b ir th day  < un k >  ,
+< un k > he l d by you unti l the mo on set over the sea  , and  < un k > the  < un k > of the  < un k > of the s k y
+I would  ' ve not be feel ing this  < un k >
+O h  )  How many time s will I have more  < un k >  < un k > will I have
+I can not  < un k > on anything  < un k >  < un k > but I  ' m just so in l o ve with you
+my  < un k >  < un k > be d  < un k > "
+I  ' m not in a good  < un k >
+This morning I  < un k > up with a  < un k >  < un k >
+So I  < un k > into the  < un k > as  < un k > as I left the be d  < un k >  < un k >  < un k > So I  < un k > into the  < un k > the  < un k > I left my  < un k > up  < un k > ( This is  < un k > more  < un k > but your sen t ence is  < un k > too
+I did  n ' t feel good since last S at ur day
+This  < un k >  < un k >
+It  ' s like  , only the  < un k > is  < un k >  < un k > only around me  < un k > very  < un k >
+I c a  n ' t  < un k > my  < un k > on my  < un k >
+I made a  < un k > to myself  < un k >
+< un k > the day of my b ir th day  , I de c id ed to never  < un k > to write a  j o ur n al  ent ry  < un k >
+This was way I was in a  < un k > last night
+It is the  < un k >  < un k > for me to  < un k > my  < un k >
+But I will  < un k > it up
+I will try to  < un k > through  < un k >  < un k >  < un k > (  < un k >  < un k > " is a little  < un k > here
+No w it  ' s  < un k > in  J a p an now
+< un k >  ,  < un k > do  n ' t know what  < un k > I can say
+It might be the be st  < un k > I  ' ve  < un k >  < un k >  < un k >  < un k > or  < un k >  < un k >
+I have  < un k > many  < un k >  < un k >  < un k > or  < un k >  < un k >
+But I had never  < un k > such a  < un k > before  < un k >  < un k >  < un k >
+So I do  n ' t know how to  < un k > on it
+A c t u ally  ,  < un k >   s  L a st  < un k > is us ed as an  < un k > so ng for the  < un k >
+I  ' ve heard the  < un k > that  < un k > is  < un k > it with  < un k >  < un k > and  < un k >  < un k >
+I  ' m sure it will  < un k >
+B e c a us e I  ' m sure that it is  < un k > to make this  < un k >  < un k > in  < un k >  < un k > a  J a p an e se  < un k >
+What I  ' m try ing to say is  , even if you are a great  < un k >  , you c a  n ' t make a  J a p an e se  < un k > with  < un k >  < un k >
+< un k >  , I c a  n ' t  < un k >  < un k > my  < un k >
+There is only one thing that I am sure of
+It is that I am glad that I could watch this  < un k >
+A fter we had l un ch at  < un k >  , we went to the  N a g o y a  < un k >  < un k > ( You do  n ' t need  ' the  ' since  N a g o y a is  < un k > the name of the  < un k >  < un k >  )
+< un k > I had been there before  , but I did  n ' t  < un k > anything of it
+They looked  < un k >  < un k > ( They looked like the  < un k > thing
+Then we  < un k > to  < un k > and went to the re st a ur ant which  < un k > a c a ke  < un k >
+They  < un k > more than  < un k >  < un k > of  < un k > and we could eat as many as we want ed  < un k > ( I think in all  < un k >  , in s te ad of  '  < un k >  '  , I would us e  '  < un k >  ' in s te ad  < un k >  < un k >  < un k > that it is  < un k > over to you in  < un k >  < un k > And usual ly that  ' s not the  < un k > with a  < un k >  < un k >
+They  < un k >  < un k >  < un k >  ,  < un k >  < un k >  , short  < un k >  , and many other  < un k > which I had never  < un k > before
+The  < un k >  ,  < un k > and every on e in the house  < un k > b ir th day so ng  < un k >
+We had  < un k > of  < un k > and a great time
+Then we took  ? ? and P or s ch la to the  < un k >  st ation and they  < un k > for T a k a y a m a
+They had a free day in  N a g o y a because the  < un k >  < un k > would  < un k > this  < un k >
+< un k >
+I feel tired the last The se past f e w days  , I have been very tired
+< un k > school  ' s  r ock  < un k >  < un k > that I become next year the act i v it ies  '  < un k > of  r ock  < un k > next year
+I have to ho st our  < un k >  ' s  < un k >  < un k >  < un k >  < un k >  < un k > of  < un k >  < un k >  < un k >
+A l ot s of things around me  < un k >  < un k >  ,  < un k >  ,  < un k >  ,  < un k >  < un k > I have a l ot of things going on right now  < un k >  < un k >  < un k >  ,  < un k >  ,  < un k >  ,  < un k >
+I feel felt so tired and I  < un k >  < un k > time s
+I do  n ' t have time to do for myself
+How can I do it
+I feel so  < un k >  < un k >  < un k > "
+How to  < un k >  < un k >  < un k > are  < un k >  < un k >
+When I was  < un k >  , I found it very easy to make a  < un k > friend
+However  , it  ' s more and more hard now
+< un k >  < un k >  , I think it is because of the  < un k > of  < un k >
+When we are little  , we even do  n ' t know what is right and what is  < un k >
