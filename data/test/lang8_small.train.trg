@@ -149,15 +149,15 @@ Thank you for reading this entry\/article
 I would be glad if you would correct this
 I like reading books
 I have read it several time in English to study English
-Do you know “The little prince” story
+Do you know â€œThe little princeâ€ story
 The little prince lives in a small planet. There are two small volcanoes and a rose
 He waters the rose and protects it from cold weather
 And prince decides go away from the rose
-Then I wondered what the rose means on prince’s planet
+Then I wondered what the rose means on princeâ€™s planet
 And I checked it on the internet
 Her name is ??
-It's because ??=??’s family doesn't like her
-Then someone found a lot of letters, pictures, and a lot of stuff in a big ??=??’s trunk
+It's because ??=??â€™s family doesn't like her
+Then someone found a lot of letters, pictures, and a lot of stuff in a big ??=??â€™s trunk
 He died by a planned accident
 When he died, he was wearing a bracelet with the stamp of ??
 So he loved her so much
@@ -190,11 +190,11 @@ Finally I could meet my friend
 at LA."
 I begin to like baseball games.(??)
 I went to see a baseball game with some of my friends at KOUSHIEN
-I didn’t like baseball until I watched the game
+I didnâ€™t like baseball until I watched the game
 That why,  we were singing a song, when the players were standing at the butter box. (batter box
 all player has each song  one of player had a homeback hit
 The team we were rooting for won.(rooting for = supporting, hoping would win)"
-the title is “The beauty and the beast”
+the title is â€œThe beauty and the beastâ€
 It is famous for everyone in the world
 Most  of people know it
 Then I have examined it searched for its related information on the internet
@@ -221,7 +221,7 @@ I am so thankful for their help
 That's why
 I want to help other people who seems to be in need of help too. problem."
 I had a chance to talk with a customer from Korea
-He could speak English, so then, I tried to ask “Would you like to have a cup of coffee or tea?\" 
+He could speak English, so then, I tried to ask â€œWould you like to have a cup of coffee or tea?\" 
 But the person sitting next to me, a Japanese businessman, interpreted my English to English. 
 I was disappointed
 I need to keep practicing my English speaking."
@@ -269,7 +269,7 @@ For instance,\"Cyclone Memory\" which improves its speed, \"Metal Memory\" harde
 And they fight while having a good command of 2 of them
 They can only insert 2 drives at once
 It tickles my engineerity! (Ha, I guess I know what you mean by 'engineerity' ^_^, but maybe something more likely would be: 'engineerness'? This isn't really a word either, but I think I would use that over an 'ity' ending. For something proper, maybe 'it tickles my engineer character', 'it tickles the engineer in me' would be better- 
-Do you like it?(*´?`) (This is proper English. In casual English, you can use what you wrote
+Do you like it?(*Â´?`) (This is proper English. In casual English, you can use what you wrote
 When I was going for a moonlit stroll this night\/evening, I heard that \"bell-ringing\" crickets were singing
 I recognized that the summer is finally ending and the autumn is falling\/coming\/following
 I've heard that any people do not no one enjoys the songs of the crickets besides the Japaneses
@@ -346,7 +346,7 @@ null
 null
 The Love and the Japanese language
 Japanese, however, hadn't have the proper word which signifies \"love\" then because of the sensibilities and lyricism. (sensibilities and lyricism
-When one of his students translated \"I love you\" into Japanese as ”??\", he warned him against that translation
+When one of his students translated \"I love you\" into Japanese as â€??\", he warned him against that translation
 Japanese would say  \"??\"(which means \"The moon looks more beautiful tonight\") instead
 I think what he meant was that \"love\" is the feeling that makes the moon looks brighter than the moon you (usually) see by yourself
 Continuing from my previous journal entries
@@ -612,8 +612,8 @@ I will write more about the energy problem sometime soon
 I have appointment with doctor tomorrow morning
 So I have to finish it tonight and leave him to turn it tomorrow morning
 I haven't dinner yet
-Sorry that I've been unable to correct your journals these days.(´;?;`
-So correcting your journal entries from that computer is really hard to do.(´·?·
+Sorry that I've been unable to correct your journals these days.(Â´;?;`
+So correcting your journal entries from that computer is really hard to do.(Â´Â·?Â·
 So I'm thinking I will bring the laptop computer which I usually use at home to the lab, and leave it there for some time
 Furthermore, my graduation research could be a kind of simulation stuff,I think. (Sorry, don't know what you are trying to say
 YES
@@ -769,18 +769,18 @@ I hope we made an unforgettable memory for them
 I want to thank everyone who helped make this such successful party. 
 I parked on the street (around\/near from) the university
 And (place) where I parked was only 2 meters away from the crossroad
-I (had) to pay the penalty of it (for this)??(?´?`?)??
+I (had) to pay the penalty of it (for this)??(?Â´?`?)??
 The fine of (illegal) parking (is\/was) ?18000
 That was) so expensive
 But I (had) to accept (that\/it), otherwise I (would got) arrested
 Oh man, If I didn't commit (it), I could buy another monitor (and\/or) a graphic board!!! ---> are u for real?! 
 Oh, just in case, I will upload the picture of the area that you are not allowed to park
 Be careful when you park your car on (the\/that) road!"
-Last week we recieved a his health screening report, and it showed some unusual numerical values.*Note: Your sentences were fine, but I might write the two sentences this way
+Last week we recieved aÂ his health screening report, and it showed some unusual numerical values.*Note: Your sentences were fine, but I might write the two sentences this way
 It showed some unusual numerical values
 The doctor said he has the metastasis spread of cancer of all around his body
 The doctor also said his days are numbered, 3 months at the most
-I'm really proud of him. my grandpa
+I'm really proud of him.Â my grandpa
 He has given me a lot of help in life
 When I hoped to study abroad in America, he was the one who approved and paid all of the expenses
 He also paid my tuition fees, and what's more he is saving to prepare for my graduation school fees

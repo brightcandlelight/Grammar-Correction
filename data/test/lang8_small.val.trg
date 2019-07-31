@@ -24,47 +24,47 @@ I dont know why I can't recognize \"ea\" \"i\" ,such as, \"cheap as chips
 If I said that sentence, people will hear the same pronounciation
 2 months later, I am going to back to Korea
 I just learned the alphabet
-It is said that because the Korean grammar is similar to the Japaneseís, so that the Korean who study Japanese take about 1 year to speak Japanese fluently, while the other foreigners have to take 3 or 4 years or more
-I found that the Korean alphabet is easier to write than the Japaneseís
+It is said that because the Korean grammar is similar to the Japanese‚Äôs, so that the Korean who study Japanese take about 1 year to speak Japanese fluently, while the other foreigners have to take 3 or 4 years or more
+I found that the Korean alphabet is easier to write than the Japanese‚Äôs
 How about the way to spell
-And after I entered the Japanese department, I even canít recall any English grammar that I learned before
-But itís also said that itís very difficult to learn both of them well
+And after I entered the Japanese department, I even can‚Äôt recall any English grammar that I learned before
+But it‚Äôs also said that it‚Äôs very difficult to learn both of them well
 One time, I had a Japanese examination
 The Japanese who see a katakana word just spell it normally but we who had learnt English before see a katakana word, we just try to think of an English word and then spell it
 I like English very much but I chose the Japanese department for no reason
-Then I asked my brother for advice, he said that ìI like Japanese
+Then I asked my brother for advice, he said that ‚ÄúI like Japanese
 I was acquainted with him in a Chinese chat room when I was at 9th grade about 4 years ago
-He is a very special person, even though weíve met in real life yet
+He is a very special person, even though we‚Äôve met in real life yet
 He is 8 years older than me but he is just a friend
 He is very humorous and handsome 
-He can always make me smile even when Iím in a bad mood
+He can always make me smile even when I‚Äôm in a bad mood
 But in my university, at the second year of regular training, we can choose a second qualification if we want and be able to study both well
-My university has about 11 foreign language departments and some other department where they teach economics, travel business, computers, and so onÖ If weíre learning a foreign language, weíre advised to choose the economics or travel bussiness department so that when we graduate we will have the best job
+My university has about 11 foreign language departments and some other department where they teach economics, travel business, computers, and so on‚Ä¶ If we‚Äôre learning a foreign language, we‚Äôre advised to choose the economics or travel bussiness department so that when we graduate we will have the best job
 So next year, I intend to choose the English department for the second qualification
-When weíre at the third year, we have a compulsory subject
-Itís different from the second qualification
-Because the second qualification also has economics, travel business, computersÖ training and it isnít compulsory
-For example, Iím learning Japanese, I have to choose one of the 10 other foreign languages
+When we‚Äôre at the third year, we have a compulsory subject
+It‚Äôs different from the second qualification
+Because the second qualification also has economics, travel business, computers‚Ä¶ training and it isn‚Äôt compulsory
+For example, I‚Äôm learning Japanese, I have to choose one of the 10 other foreign languages
 So, if next year I choose the English department, the year after I may choose Korean for second foreign language
 To learn almost fluent Japanese, we have 4 years
 After that, I am not sure that we can be able to speak it fluently
-Itís called ìthe love languageî, isnít it
+It‚Äôs called ‚Äúthe love language‚Äù, isn‚Äôt it
 Do you know our Uncle Ho was able to speak fluently more than 10 foreign languages
-I canít do it like that but I wish I could learn at least 4: Japanese, English, Korean and French
+I can‚Äôt do it like that but I wish I could learn at least 4: Japanese, English, Korean and French
 Do I have the ability to do it
-Iím very worried about it
+I‚Äôm very worried about it
 This time  we still have to test 4 Japanese skills
-Iím very nervous of speaking and listening skills
-It was so bad, wasnít it? The essay topic this time will be random
-Iíll have to write anything in Japanese as the topic requests
+I‚Äôm very nervous of speaking and listening skills
+It was so bad, wasn‚Äôt it? The essay topic this time will be random
+I‚Äôll have to write anything in Japanese as the topic requests
 Life is short
 to try hard
 We wore wedding dresses despite the absence of our bridegrooms
 WishI send my best wishes for to her..  I know this might sound strainge, but this is a very common usage in English - to send someone good wishes on a birthday or other occasion
-That is Those are my motherís pictures, which were taken when she was younger.  Young is also correct, but the word younger is more polite, as it doesn't imply she is so old now
+That is Those are my mother‚Äôs pictures, which were taken when she was younger.  Young is also correct, but the word younger is more polite, as it doesn't imply she is so old now
 Isn't she beautiful
-My computerís CD ROM was broken so I canít install Japanese font
-Iíll try to continue this diary one near day next day
+My computer‚Äôs CD ROM was broken so I can‚Äôt install Japanese font
+I‚Äôll try to continue this diary one near day next day
 There is a big difference between the east and the west, when comes to education. I always admired how the westerners educate their posterity, their method is so gentle and kind, full of love and meaning, whereas the Asian method is rather more of violence more violent, for example the Chinese people believe that a child should be educated with rods
 Countless beatings from their parent is believed to be capable of forging a successful child! That's how I was brought up at least. My parent always tell me how much they love me, although they served me with rod every time I committed a wrong doing. However, when comes to the western way of parenting, it sounds like a fairy tale to me. For example, the western parents always said this to their child if they happened to be repudiate, the parent will say this \"go to your room!\" This is something that will never happen in an Asian family
 Maybe our parents would never realize the trauma they had inflicted on us!"
