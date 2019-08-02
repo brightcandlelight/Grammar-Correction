@@ -90,7 +90,7 @@ def main():
     # GPU to use
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
     # device = ("cpu")
-    devices = [0, 1, 2, 3,4,5,6,7]
+    devices = ["cuda:0", "cuda:1"]
 
     #####################
     #   Data Loading    #
