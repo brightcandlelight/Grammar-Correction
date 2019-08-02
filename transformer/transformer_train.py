@@ -90,7 +90,7 @@ def main():
     # GPU to use
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
     # device = ("cpu")
-    devices = ["cuda:0", "cuda:1"]
+    devices = [0, 1, 2, 3]
 
     #####################
     #   Data Loading    #
@@ -185,6 +185,7 @@ def main():
     #    print("Epoch %d/%d - Loss: %f" % (epoch + 1, EPOCHES, total_loss / total_tokens))
 
     ### MULTIPLE GPU
+    model.cuda()
     model_par = nn.DataParallel(model, device_ids=devices)
     for epoch in range(EPOCHES):
         model_par.train()
