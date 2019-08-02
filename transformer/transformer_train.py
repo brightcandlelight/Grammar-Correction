@@ -90,7 +90,7 @@ def main():
     # GPU to use
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
     # device = ("cpu")
-    # devices = [0, 1, 2, 3]
+    devices = [0, 1, 2, 3,4,5,6,7]
 
     #####################
     #   Data Loading    #
@@ -165,39 +165,39 @@ def main():
 
     print("Training %s %s %s..." % (DATA, EN_EMB, DE_EMB))
     ### SINGLE GPU
-    for epoch in range(EPOCHES):
-        model.train()
-        loss_compute = SimpleLossCompute(model.generator, criterion, opt=model_opt)
-        run_epoch((rebatch(pad_idx, b) for b in train_iter), 
-                  model, loss_compute, TEXT.vocab, seq_train=SEQ_TRAIN)
+    #for epoch in range(EPOCHES):
+    #    model.train()
+    #    loss_compute = SimpleLossCompute(model.generator, criterion, opt=model_opt)
+    #    run_epoch((rebatch(pad_idx, b) for b in train_iter), 
+    #              model, loss_compute, TEXT.vocab, seq_train=SEQ_TRAIN)
 
-        model.eval()
-        total_loss, total_tokens = 0, 0
-        for batch in (rebatch(pad_idx, b) for b in valid_iter):
-            out = greedy_decode(model, TEXT.vocab, batch.src, batch.src_mask, trg=batch.trg)
-            loss = loss_compute(out, batch.trg_y, batch.ntokens)
-            total_loss += loss
-            total_tokens += batch.ntokens
+    #    model.eval()
+    #    total_loss, total_tokens = 0, 0
+    #    for batch in (rebatch(pad_idx, b) for b in valid_iter):
+    #        out = greedy_decode(model, TEXT.vocab, batch.src, batch.src_mask, trg=batch.trg)
+    #        loss = loss_compute(out, batch.trg_y, batch.ntokens)
+    #        total_loss += loss
+    #        total_tokens += batch.ntokens
 
-        print("Save model...")
-        torch.save(model.state_dict(), model_file)
+    #    print("Save model...")
+    #    torch.save(model.state_dict(), model_file)
 
-        print("Epoch %d/%d - Loss: %f" % (epoch + 1, EPOCHES, total_loss / total_tokens))
+    #    print("Epoch %d/%d - Loss: %f" % (epoch + 1, EPOCHES, total_loss / total_tokens))
 
     ### MULTIPLE GPU
-    # model_par = nn.DataParallel(model, device_ids=devices)
-    # for epoch in range(EPOCHES):
-        # model_par.train()
+    model_par = nn.DataParallel(model, device_ids=devices)
+    for epoch in range(EPOCHES):
+        model_par.train()
         
-        # run_epoch(data_generator(train_iter), model_par, 
-                  # MultiGPULossCompute(model.generator, criterion, devices, opt=model_opt))
-        # print("Save Model...")
-        # torch.save(model.state_dict(), model_file)
+        run_epoch(data_generator(train_iter), model_par, 
+                  MultiGPULossCompute(model.generator, criterion, devices, opt=model_opt))
+        print("Save Model...")
+        torch.save(model.state_dict(), model_file)
 
-        # model_par.eval()
-        # loss = run_epoch(data_generator(valid_iter), model_par, 
-                         # MultiGPULossCompute(model.generator, criterion, devices, opt=None))
-        # print("Epoch %d/%d - Loss: %f" % (epoch + 1, EPOCHES, loss))
+        model_par.eval()
+        loss = run_epoch(data_generator(valid_iter), model_par, 
+                         MultiGPULossCompute(model.generator, criterion, devices, opt=None))
+        print("Epoch %d/%d - Loss: %f" % (epoch + 1, EPOCHES, loss))
 
 
 if __name__ == "__main__":
