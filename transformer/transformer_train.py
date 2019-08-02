@@ -189,13 +189,13 @@ def main():
     for epoch in range(EPOCHES):
         model_par.train()
         
-        run_epoch(data_generator(train_iter), model_par, 
+        run_epoch((rebatch(pad_idx, b) for b in train_iter), model_par, 
                   MultiGPULossCompute(model.generator, criterion, devices, opt=model_opt))
         print("Save Model...")
         torch.save(model.state_dict(), model_file)
 
         model_par.eval()
-        loss = run_epoch(data_generator(valid_iter), model_par, 
+        loss = run_epoch((rebatch(pad_idx, b) for b in valid_iter), model_par, 
                          MultiGPULossCompute(model.generator, criterion, devices, opt=None))
         print("Epoch %d/%d - Loss: %f" % (epoch + 1, EPOCHES, loss))
 
