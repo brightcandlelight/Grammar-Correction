@@ -237,6 +237,13 @@ def get_emb(en_emb_name, de_emb_name, vocab, device, d_model=512,
         print(str(elmo(char_ids)))
         print(str(elmo(char_ids)['elmo_representations']))
         print(str(elmo(char_ids)['elmo_representations'][0]))
+        if (elmo == None):
+            elmo = choose_emb('elmo')
+        print("B")
+        print(str(elmo))
+        print(str(elmo(char_ids)))
+        print(str(elmo(char_ids)['elmo_representations']))
+        print(str(elmo(char_ids)['elmo_representations'][0]))
                 
         emb = elmo(char_ids)['elmo_representations'][0]
         return emb
