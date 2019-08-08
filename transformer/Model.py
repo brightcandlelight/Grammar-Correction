@@ -229,6 +229,10 @@ def get_emb(en_emb_name, de_emb_name, vocab, device, d_model=512,
     elmo = None
     def elmo_emb(batch_words):
         print("B")
+        print(str(elmo))
+        print(str(elmo(char_ids)))
+        print(str(elmo(char_ids)['elmo_representations']))
+        print(str(elmo(char_ids)['elmo_representations'][0]))
         sents = [[vocab.itos[i] for i in words] for words in batch_words]
         # ELMo char_ids input = batch * words * 50
         char_ids = batch_to_ids(sents).to(device)
