@@ -228,6 +228,7 @@ def get_emb(en_emb_name, de_emb_name, vocab, device, d_model=512,
 
     elmo = None
     def elmo_emb(batch_words):
+        print("B")
         sents = [[vocab.itos[i] for i in words] for words in batch_words]
         # ELMo char_ids input = batch * words * 50
         char_ids = batch_to_ids(sents).to(device)
@@ -238,6 +239,7 @@ def get_emb(en_emb_name, de_emb_name, vocab, device, d_model=512,
         if 'elmo' in emb_name: 
             elmo = Elmo(elmo_options, elmo_weights, 1, dropout=0).to(device)
             emb = elmo_emb
+            print("A")
         elif 'glove' in emb_name:
             emb = nn.Embedding.from_pretrained(vocab.vectors)
         else:
