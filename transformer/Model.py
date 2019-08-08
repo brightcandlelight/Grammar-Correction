@@ -228,16 +228,18 @@ def get_emb(en_emb_name, de_emb_name, vocab, device, d_model=512,
 
     elmo = None
     def elmo_emb(batch_words):
+        global elmo
         sents = [[vocab.itos[i] for i in words] for words in batch_words]
         # ELMo char_ids input = batch * words * 50
         char_ids = batch_to_ids(sents).to(device)
         
-        elmo = Elmo(elmo_options, elmo_weights, 1, dropout=0).to(device)
+        #elmo = Elmo(elmo_options, elmo_weights, 1, dropout=0).to(device)
                 
         emb = elmo(char_ids)['elmo_representations'][0]
         return emb
 
     def choose_emb(emb_name): 
+        global elmo
         if 'elmo' in emb_name: 
             elmo = Elmo(elmo_options, elmo_weights, 1, dropout=0).to(device)
             emb = elmo_emb
