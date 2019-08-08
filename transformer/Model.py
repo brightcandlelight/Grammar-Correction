@@ -232,8 +232,7 @@ def get_emb(en_emb_name, de_emb_name, vocab, device, d_model=512,
         # ELMo char_ids input = batch * words * 50
         char_ids = batch_to_ids(sents).to(device)
         
-        if (elmo == None):
-            elmo = Elmo(elmo_options, elmo_weights, 1, dropout=0).to(device)
+        elmo = Elmo(elmo_options, elmo_weights, 1, dropout=0).to(device)
         print("B")
         print(str(elmo))
         print(str(elmo(char_ids)))
