@@ -53,6 +53,7 @@ def parse_args():
     parser.add_argument('-corpus', '--DATA')
     parser.add_argument('-en', '--EN_EMB')
     parser.add_argument('-de', '--DE_EMB')
+    parser.add_argument('-e', '--EPOCHES', default=100)
     args = parser.parse_args()                                      
 
     return args
@@ -77,7 +78,7 @@ def main():
         EMB_DIM = 512
 
     BATCH_SIZE = 1500
-    EPOCHES = 100
+    EPOCHES = int(args.EPOCHES)
 
     options_file = "https://s3-us-west-2.amazonaws.com/allennlp/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_options.json"
     weight_file = "https://s3-us-west-2.amazonaws.com/allennlp/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5"
